@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">IBolletta</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="login">accesso</string>
+    <string name="logout">disconnetti</string>
+
+    <string name="signin">registrati</string>
+    <string name="ricerca">ricerca</string>
+
+    <string name="_true_">true</string>
+    <string name="_false_">false</string>
+
+    <string name="log_in">accesso</string>
+    <string name="biometric">biometrica</string>
+    <string name="client_id">guest</string>
+    <string name="secret_id">guest</string>
+    <string name="auth_error">errore autenticazione: %1$s</string>
+    <string name="generic_error">errore : %1$s</string>
+    <string name="login_error">errore accesso: %1$s</string>
+    <string name="auth_failed">autenticazione fallita</string>
+    <string name="bio_title">accesso biometrico</string>
+    <string name="bio_subtitle">accesso con i tuoi dati biometrici</string>
+    <string name="bio_neg_btn">usa la passowrd del account</string>
+    <string name="login_success">accesso con successo</string>
+    <string name="profile_found_success">profilo trovato con successo</string>
+    <string name="login_failed">accesso fallito: %1$s</string>
+    <string name="profile_found_error">errore Ricerca profilo: %1$s</string>
+    <string name="profile_found_failed">Ricerca Profilo Fallito %1$s</string>
+    <string name="email_check">registrazione effettuata, controlla la tua e-mail</string>
+    <string name="signin_error">errore Registrazione: %1$s</string>
+    <string name="signin_failed">registrazione fallita: %1$s</string>
+    <string name="msg_login_fail">e-mail e\o password errata</string>
+    <string name="msg_signin_fail">impossibile eseguire la registrazione</string>
+    <string name="do_login"> si prega di effetturare il Login </string>
+    <string name="nickname">soprannome</string>
+    <string name="session_exparied">sessione scaduta</string>
+    <string name="dir_exit">esci</string>
+    <string name="dir_ok">conferma</string>
+    <string name="no_access">( accesso negato )</string>
+    <string name="double_dot">.</string>
+    <string name="download_in">cartella :%1$s</string>
+    <string name="upload_an_image">carica immagine bolletta</string>
+    <string name="jpg_suffix">.jpg</string>
+    <string name="img_prefix">img_</string>
+    <string name="img_type">image/*</string>
+    <string name="select_source">seleziona applicazione</string>
+    <string name="no_image">nessuna immagine disponibile</string>
+    <string name="opacity">opacità</string>
+    <string name="todo">TODO</string>
+    <string name="select_area">area del immagine</string>
+    <string name="save_select_area">prosegui con area selezionata</string>
+    <string name="get_data_area">prosegui con riconoscimento dei dati</string>
+    <string name="result_area_orc">esito lettura del immagine</string>
+    <string name="elab_ocr">  elaborazione ocr in corso...  </string>
+    <string name="no_elab_ocr">nessuna elaborazione valida per immagine</string>
+    <string name="png_suffix">.png</string>
+    <string name="end_elab_ocr">fine elaborazione</string>
+    <string name="title_cc">CONTI CORRENTI POSTALI Attestazione di versamento</string>
+    <string name="selection_area">area di selezione</string>
+    <string name="select_section_text">[ clicca e fotografa ]</string>
+    <string name="save_select_ocr">salvare la bolletta</string>
+    <string name="no_input_value">indicare una valore per l\'importo della bolletta</string>
+    <string name="no_cc_value">"indicare il Conto Corrente della bolletta</string>
+    <string name="no_scad_value">incidare la data per la scadenza della bolletta</string>
+    <string name="no_number_value">indicare il numero della bolletta</string>
+    <string name="no_owner_value">indicare l\'intestatario della bolletta</string>
+    <string name="no_td_value">indicare il td della bolletta </string>
+    <string name="no_valid_ocr">lettura bolletta non eseguita correttamente, si prega di ripeterla</string>
+    <string name="cambia_dati">cambia dati</string>
+    <string name="cancel">annulla</string>
+    <string name="elimina">elimina</string>
+    <string name="msg_save_bolletta">errore salvataggio della bolletta </string>
+    <string name="msg_update_bolletta">errore in aggiornamento della bolletta </string>
+    <string name="msg_delete_bolletta">errore in eliminazione della bolletta </string>
+    <string name="msg_find_bolletta">errore in ricera della bolletta : %1$s</string>
+    <string name="bollette_found_successfully">elenco bollette trovato con successo</string>
+    <string name="find_bollette_error">errore nel recupero delle bollette : %1$s</string>
+    <string name="find_bollette_failed">recupero bollette fallito : %1$s</string>
+    <string name="bolletta_saved">bolletta inserita correttamente</string>
+    <string name="bolletta_updated">dati bolletta aggiornati</string>
+    <string name="bolletta_delete">bolletta correttamente eliminata</string>
+
+    <string-array name="type_language">
+        <item>It</item>
+        <item>En</item>
+    </string-array>
+</resources>

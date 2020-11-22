@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/loginItem"
+            android:icon="@android:drawable/ic_secure"
+            android:onClick="onLoginBntClicked"
+            android:title="@string/login"
+            android:state_checked="true"/>
+        <item
+            android:id="@+id/signinItem"
+            android:icon="@drawable/ic_how_to_reg_24px"
+            android:onClick="onSigninBntClicked"
+            android:state_checked="true"
+            android:title="@string/signin" />
+    </group>
+</menu>
